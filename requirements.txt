@@ -1,0 +1,13 @@
+selenium==4.20.0
+pytest==8.2.0
+pytest-xdist==3.5.0
+allure-pytest==2.13.5
+allure-python-commons==2.13.5
+python-dotenv==1.0.1
+requests==2.32.3
+Faker==24.11.0
+reportlab==4.2.0
+webdriver-manager==4.0.1
+pytest-html==4.1.1
+Pillow==11.2.1
+python-dateutil==2.9.0
